@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name" translatable="false">Tour Guide</string>
+    <string name="drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="drawer_close" translatable="false">Close navigation drawer</string>
+    <string name="about_gaza">Gaza’s position on the crossroads between Asia and Africa has ensured it a history as troubled as it is long. Since the Canaanite period, it has been fought over, invaded, and occupied by nearly all the powers that have marched across the Middle East. In spite of this turbulent history, Gaza boasts some of the most beautiful beaches in the world and friendly and inviting locals. Although the population is predominantly Muslim, Gaza has a wonderful diversity of historical and cultural sites, from beautiful ornate mosques to ancient churches and a history predating the monotheistic, Abrahamic religions.</string>
+    <string name="about">About Gaza</string>
+    <string name="hotels">Hotels</string>
+    <string name="blue_beach">Blue Beach</string>
+    <string name="arcmed">ArcMed / Al Mashtal</string>
+    <string name="blue_sammak_location">Al Rasheed Street, Gaza City</string>
+    <string name="arcmed_location">Salah Khalaf Street, Gaza City</string>
+    <string name="almathaf">Al-Mathaf</string>
+    <string name="almathaf_location">Sodaniya, Beach Road, Gaza City</string>
+    <string name="historical_sites">Historical Sites</string>
+    <string name="omari">Al Omari Mosque</string>
+    <string name="omari_location">Eastern Omar Al Mukhtar Street, Al Darraj Quarter, Gaza City</string>
+    <string name="samara">Hammam El Samara</string>
+    <string name="smara_location">July 22 Street, Zaytoun Quarter, Gaza City</string>
+    <string name="basha">Qasr Al Basha</string>
+    <string name="basha_location">Al Wehda Street, Al Darraj, Gaza City</string>
+    <string name="restaurant">Restaurant</string>
+    <string name="mazaj">Mazaj</string>
+    <string name="mazaj_location">Omar Al Mokhtar Street, Al Remal, Gaza</string>
+    <string name="sammak">Al Sammak</string>
+    <string name="light_house">Light House</string>
+    <string name="museums">Museums</string>
+    <string name="gaza_museum">Gaza Museum of Archaeology</string>
+    <string name="hilarion">St. Hilarion Monastery</string>
+    <string name="hilarion_location">Nusseirat, Gaza</string>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="image_height">200dp</dimen>
+    <dimen name="app_bar_height">300dp</dimen>
+
+    //nav header
+    <dimen name="nav_height">170dp</dimen>
+    <dimen name="nav_logo_w">70dp</dimen>
+
+    //textSize
+    <dimen name="minor_textSize">14sp</dimen>
+    <dimen name="textSize">16sp</dimen>
+    <dimen name="line_space">5dp</dimen>
+
+    //margin
+    <dimen name="layout_margin">10dp</dimen>
+    <dimen name="small_margin">6dp</dimen>
+
+    //padding
+    <dimen name="padding">8dp</dimen>
+
+    //card
+    <dimen name="card_corner_radius">8dp</dimen>
+</resources>

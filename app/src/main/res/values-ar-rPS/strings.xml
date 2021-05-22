@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_gaza">
+لقد كفل موقع غزة على مفترق طرق بين آسيا وأفريقيا لها تاريخًا مضطربًا وطويلًا. منذ العصر الكنعاني ، خاضت معظم القوى التي سارعت عبر الشرق الأوسط خوض معركة وغزو واحتلال. على الرغم من هذا التاريخ المضطرب ، تفتخر غزة ببعض من أجمل الشواطئ في العالم وسكانها الودودين والمرحبين. على الرغم من أن غالبية السكان من المسلمين ، إلا أن غزة بها تنوع رائع في المواقع التاريخية والثقافية ، من المساجد المزخرفة الجميلة إلى الكنائس القديمة وتاريخ يسبق الديانات التوحيدية والإبراهيمية.    </string>
+    <string name="about">حول غزة</string>
+    <string name="hotels">الفنادق</string>
+    <string name="blue_beach">الشاطيء الازرق</string>
+    <string name="arcmed">الاركميد / المشتل</string>
+    <string name="blue_sammak_location">شارع الرشيد، مدينة غزة</string>
+    <string name="arcmed_location">شارع صلاح خلف، مدينة غزة</string>
+    <string name="almathaf">المتحف</string>
+    <string name="almathaf_location">السودانية ، طريق الشاطئ ، مدينة غزة</string>
+    <string name="historical_sites">الأماكن التاريخية</string>
+    <string name="omari">المسجد العمري</string>
+    <string name="omari_location">شرق شارع عمر المختار ، حي الدراج ، مدينة غزة</string>
+    <string name="samara">حمام السمرة</string>
+    <string name="smara_location">شارع 22 يوليو ، حي الزيتون ، مدينة غزة</string>
+    <string name="basha">قصر الباشا</string>
+    <string name="basha_location">شارع الوحدة ، الدراج ، مدينة غزة</string>
+    <string name="restaurant">المطاعم</string>
+    <string name="mazaj">مزاج</string>
+    <string name="mazaj_location">شارع عمر المختار ، الرمال ، غزة</string>
+    <string name="sammak">السماك</string>
+    <string name="light_house">اللايت هاوس</string>
+    <string name="museums">المتاحف</string>
+    <string name="gaza_museum">متحف غزة للآثار</string>
+    <string name="hilarion">دير القديس هيلاريون</string>
+    <string name="hilarion_location">النصيرات ، غزة</string>
+</resources>
