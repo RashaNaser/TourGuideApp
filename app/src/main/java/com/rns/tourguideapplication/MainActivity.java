@@ -25,7 +25,7 @@ import java.util.ArrayList;
 public class MainActivity extends AppCompatActivity {
     private ActionBarDrawerToggle drawerToggle;
     private ArrayList<MenuItem> menuItems;
-    private int oldPosition = 0;
+    private int oldPosition;
     public ActivityMainBinding binding;
 
     @Override
@@ -48,7 +48,7 @@ public class MainActivity extends AppCompatActivity {
             menuItems.add(binding.navView.getMenu().getItem(i));
         }
 
-        openFragment(HistoricalSitesFragment.newInstance("", ""), R.id.container);
+        openFragment(new HistoricalSitesFragment(), R.id.container);
         binding.navView.getMenu().getItem(oldPosition).setChecked(true);
         setTitle(binding.navView.getMenu().getItem(oldPosition).getTitle());
     }
@@ -64,19 +64,19 @@ public class MainActivity extends AppCompatActivity {
     public void selectDrawerItem(MenuItem menuItem) {
         switch (menuItem.getItemId()) {
             case R.id.historical:
-                openFragment(HistoricalSitesFragment.newInstance("", ""), R.id.container);
+                openFragment(new HistoricalSitesFragment(), R.id.container);
                 break;
             case R.id.museum:
-                openFragment(MuseumsFragment.newInstance("", ""), R.id.container);
+                openFragment(new MuseumsFragment(), R.id.container);
                 break;
             case R.id.hotel:
-                openFragment(HotelsFragment.newInstance("", ""), R.id.container);
+                openFragment(new HotelsFragment(), R.id.container);
                 break;
             case R.id.restaurant:
-                openFragment(RestaurantsFragment.newInstance("", ""), R.id.container);
+                openFragment(new RestaurantsFragment(), R.id.container);
                 break;
             case R.id.about:
-                openFragment(AboutGazaFragment.newInstance("", ""), R.id.container);
+                openFragment(new AboutGazaFragment(), R.id.container);
                 break;
         }
 

@@ -26,6 +26,6 @@
             android:layout_marginTop="@dimen/small_margin"
             android:lineSpacingExtra="@dimen/line_space"
             android:text="@string/about_gaza"
-            android:textSize="@dimen/textSize" />
+            android:textSize="@dimen/heading_textSize" />
     </LinearLayout>
 </ScrollView>

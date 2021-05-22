@@ -34,7 +34,7 @@
                 android:gravity="center"
                 android:paddingTop="@dimen/padding"
                 android:text="@string/almathaf"
-                android:textSize="@dimen/textSize"
+                android:textSize="@dimen/heading_textSize"
                 android:textStyle="bold" />
 
             <TextView

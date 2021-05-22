@@ -9,7 +9,7 @@
 
     //textSize
     <dimen name="minor_textSize">14sp</dimen>
-    <dimen name="textSize">16sp</dimen>
+    <dimen name="heading_textSize">16sp</dimen>
     <dimen name="line_space">5dp</dimen>
 
     //margin

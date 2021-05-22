@@ -18,34 +18,12 @@ import java.util.ArrayList;
 
 public class HotelsFragment extends Fragment {
 
-    private static final String ARG_PARAM1 = "param1";
-    private static final String ARG_PARAM2 = "param2";
     private FragmentHotelsBinding binding;
     private SiteAdapter adapter;
     private ArrayList<Site> sites = new ArrayList<>();
-    private String mParam1;
-    private String mParam2;
 
     public HotelsFragment() {
         // Required empty public constructor
-    }
-
-    public static HotelsFragment newInstance(String param1, String param2) {
-        HotelsFragment fragment = new HotelsFragment();
-        Bundle args = new Bundle();
-        args.putString(ARG_PARAM1, param1);
-        args.putString(ARG_PARAM2, param2);
-        fragment.setArguments(args);
-        return fragment;
-    }
-
-    @Override
-    public void onCreate(Bundle savedInstanceState) {
-        super.onCreate(savedInstanceState);
-        if (getArguments() != null) {
-            mParam1 = getArguments().getString(ARG_PARAM1);
-            mParam2 = getArguments().getString(ARG_PARAM2);
-        }
     }
 
     @Override
